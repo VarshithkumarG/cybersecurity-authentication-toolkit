@@ -15,7 +15,7 @@ Weak password handling and poorly managed sessions make accounts easy to comprom
 
 ## Technology
 
-Python 3.10+, Flask, Flask-Session, Werkzeug, SQLite.
+Python 3.10+, Flask (Werkzeug is included), SQLite.
 
 ## Setup and run
 
